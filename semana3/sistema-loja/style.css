@@ -1,0 +1,49 @@
+body {
+    background-color:rgb(212, 205, 205);
+}
+
+.colorida {
+    background-color: rgb(214, 195, 112);
+     color:rgb(9, 24, 224);
+     display: inline
+}
+
+h2 {
+    color: darkslategray;
+}
+
+.laranja {
+    background-color: rgb(202, 121, 16);
+    display: inline;
+    
+    
+}
+
+
+#fundo-laranja { 
+    background-color: rgb(202, 121, 16);
+}
+
+#divBusca {
+    background-color:#2F4F4F;
+    border:solid 1px;
+    border-radius: 15px;
+    width:300px;
+}
+
+#txtBusca {
+    float: left;
+    background-color: transparent;
+    padding-left: 5px;
+    font-style: italic;
+    font-size: 18px;
+    border: none;
+    height: 32px;
+    width: 260px;
+}
+
+td {
+    background-color: rgb(214, 195, 112);
+     color:rgb(9, 24, 224);
+     display: inline
+}
